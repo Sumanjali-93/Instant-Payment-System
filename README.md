@@ -4,13 +4,13 @@ NovaPay — A monolithic fintech application designed to handle wallet services,
 
 # NovaPay
 
-NovaPay — A monolithic fintech application designed to handle wallet services, payment processing, and transaction ledger management within a single scalable backend system.
+  NovaPay — A monolithic fintech application designed to handle wallet services, payment processing, and transaction ledger management within a single scalable      backend system.
 
 ## System Architecture
 
-The NovaPay platform follows a monolithic backend architecture where all core modules operate within a single deployable service. This design simplifies development and ensures strong transactional consistency for financial operations.
+  The NovaPay platform follows a monolithic backend architecture where all core modules operate within a single deployable service. This design simplifies           development and ensures strong transactional consistency for financial operations.
 
-The backend handles authentication, wallet management, payment processing, ledger recording, and notification services while maintaining data integrity and security.
+  The backend handles authentication, wallet management, payment processing, ledger recording, and notification services while maintaining data integrity and        security.
 
 <img width="1536" height="1024" alt="ChatGPT Image Mar 5, 2026, 12_24_04 PM" src="https://github.com/user-attachments/assets/ac623473-cd59-4c83-911b-dcd3a954a86f" />
 
@@ -41,32 +41,32 @@ The backend handles authentication, wallet management, payment processing, ledge
 
 ## Core Modules
 
-### Authentication Module
-Handles user authentication and authorization using JWT and OAuth mechanisms.
-
-### User Module
-Manages user profiles, account details, and role-based permissions.
-
-### Wallet Module
-Responsible for maintaining wallet balances and performing balance updates during transactions.
-
-### Payment Module
-Processes peer-to-peer payments and transaction requests between users.
-
-### Ledger Module
-Maintains immutable financial records and transaction history.
-
-### Notification Module
-Sends email or SMS alerts for transaction updates.
-
-### Admin Module
-Provides monitoring, reporting, and administrative controls.
-
-### Security Module
-Implements encryption, RBAC, and API request validation.
-
-### Audit Module
-Tracks system activity and maintains audit logs for compliance.
+  ### Authentication Module
+  - Handles user authentication and authorization using JWT and OAuth mechanisms.
+  
+  ### User Module
+  - Manages user profiles, account details, and role-based permissions.
+  
+  ### Wallet Module
+  - Responsible for maintaining wallet balances and performing balance updates during transactions.
+  
+  ### Payment Module
+  - Processes peer-to-peer payments and transaction requests between users.
+  
+  ### Ledger Module
+  - Maintains immutable financial records and transaction history.
+  
+  ### Notification Module
+  - Sends email or SMS alerts for transaction updates.
+  
+  ### Admin Module
+  - Provides monitoring, reporting, and administrative controls.
+  
+  ### Security Module
+  - Implements encryption, RBAC, and API request validation.
+  
+  ### Audit Module
+  - Tracks system activity and maintains audit logs for compliance.
 
 
 ## Project Structure
