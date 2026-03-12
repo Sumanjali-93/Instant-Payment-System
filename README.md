@@ -9,8 +9,10 @@
   The backend handles authentication, wallet management, payment processing, ledger recording, and notification services while maintaining data integrity and        security.
 
 
+## Architecture
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ac623473-cd59-4c83-911b-dcd3a954a86f" width="1000">
+  <img src="IMAGE_LINK" width="900">
 </p>
 
 
