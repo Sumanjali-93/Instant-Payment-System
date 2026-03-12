@@ -1,5 +1,5 @@
 # 🌐 Instant Payment System
-Dynamic Payments • Secure Wallets • Real-Time Transactions • Built on NovaPay
+Dynamic Payments • Secure Wallets • Real-Time Transactions • Built on Paymeny System
 
 ![Fintech](https://img.shields.io/badge/Fintech-Instant_Payments-blue)
 ![Backend](https://img.shields.io/badge/Backend-Spring_Boot-green)
