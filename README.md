@@ -10,9 +10,10 @@
 
 
 ## Architecture
+<h2 align="center">Instant Payment System Architecture</h2>
 
 <p align="center">
-  <img src="IMAGE_LINK" width="900">
+  <img src="architecture.png1.png" width="1000">
 </p>
 
 
