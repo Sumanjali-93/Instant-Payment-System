@@ -106,7 +106,7 @@
 
 ## 👩‍💻 Project Maintainer
 
-**Sumanjali Nuthanakanti**  
-Full Stack & Systems Developer  
-
-Architecting scalable systems and building production-grade applications.
+  **Sumanjali Nuthanakanti**  
+     Full Stack & Systems Developer  
+  
+  **Architecting scalable systems and building production-grade applications.**
