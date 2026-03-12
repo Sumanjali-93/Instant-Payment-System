@@ -155,7 +155,8 @@ The architecture reflects patterns used in **modern payment platforms like Strip
 ## 👩‍💻 Project Maintainer
 
 **Sumanjali Nuthanakanti**  
- Full Stack & Systems Developer  
+ Full Stack & Systems Developer
+ https://github.com/Sumanjali-93
   
 **Architecting scalable systems and building production-grade applications.**
 
